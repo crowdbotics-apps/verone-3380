@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT verone_3380.wsgi:application
